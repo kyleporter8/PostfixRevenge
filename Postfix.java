@@ -11,7 +11,7 @@ public class Postfix
     
         Scanner in = new Scanner(System.in);
       
-        System.out.println("Postfix: First name Last name\n");
+        System.out.println("Postfix: Kyle Porter\n");
         
         do
         {  
